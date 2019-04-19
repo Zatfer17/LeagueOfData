@@ -89,8 +89,6 @@ def getMatchIdGivenChampId(region, champId):
         f.write(']\n'.encode())
 
 
-
-
 ##getMatchIdGivenAccountIdAndChampId('euw1', 'iq4wwia_QS-zFt4xmjcYY_Xa23yKCH3VVPlHOVOse0qVMg', '266')
 getMatchIdGivenChampId('euw1', '266')
 
